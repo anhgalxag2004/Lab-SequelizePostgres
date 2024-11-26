@@ -6,7 +6,7 @@
     "host": "dpg-ct2r59hu0jms738va5h0-a",
     "dialect": "postgres",
     "port":5432,
-    "dialectModule": "mysql2",
+    "dialectModule": "mysql2"
   },
   "test": {
     "username": "root",
