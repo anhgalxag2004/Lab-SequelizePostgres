@@ -1,13 +1,16 @@
 {
   "development": {
-    "username": "sequelize_exercise_84sn_user",
-    "password": "LVSVuhiGZ4vJvCUPD81HgPG59QCImNlq",
-    "database": "sequelize_exercise_84sn",
-    "host": "dpg-ct2r59hu0jms738va5h0-a",
+    "username": "student",
+    "password": "ptudw@123",
+    "database": "sequelize_exercise_foxh",
+    "host": "dpg-csvb7laj1k6c73c3jk20-a.singapore-postgres.render.com",
     "dialect": "postgres",
-    "port":5432,
-    "dialectModule": "mysql2"
-  },
+    "dialectOptions": {
+      "ssl": {
+      "require": true,
+      "rejectUnauthorized": false
+      }
+    }
   "test": {
     "username": "root",
     "password": null,
