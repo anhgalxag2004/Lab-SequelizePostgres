@@ -10,7 +10,8 @@
           "require": true,
           "rejectUnauthorized": false
         }
-    } 
+    },
+    "port": 5432
   },
   "test": {
     "username": "root",
