@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "200422",
-    "database": "sequelize_exercise",
-    "host": "localhost",
+    "username": "sequelize_exercise_84sn_user",
+    "password": "LVSVuhiGZ4vJvCUPD81HgPG59QCImNlq",
+    "database": "sequelize_exercise_84sn",
+    "host": "dpg-ct2r59hu0jms738va5h0-a",
     "dialect": "postgres",
     "port":5432
   },
